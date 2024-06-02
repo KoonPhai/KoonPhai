@@ -8,7 +8,7 @@ I've been learning HTML CSS for 2 Years.
 
 * 🌍  I'm based in Chaiyaphum, Thailand
 * ✉️  You can contact me at [paikung01@gmail.com](mailto:paikung01@gmail.com)
-* 🧠  I'm learning Lerning about Laravel.
+* 🧠  I'm Lerning about Laravel.
 
 ### Skills
 
